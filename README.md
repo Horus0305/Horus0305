@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Web Development.<br>📚Student at Pillai College of Engineering.<br>🎯 Goals : <br>🎲 Fun fact :</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Web Development.<br>📚Student at Pillai College of Engineering.<br>🎯 Goals : Automate my way through laziness<br>🎲 Fun fact : The Firefox logo is actually a red panda, not a fox.</p>
 
 ###
 
